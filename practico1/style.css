@@ -9,7 +9,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Playfair Display', serif;
     font-family: 'Quicksand', sans-serif;
+
 }
+
 
 header {
     width: 1306px;
@@ -31,8 +33,7 @@ header {
 .decorative-circle-bottom {
     position: absolute;
     top: 634px;
-    left: 734px;
-    
+    left: 734px; 
 }
 .decorative-plus{
     position: absolute;
@@ -336,7 +337,6 @@ main {
     grid-template-columns: 2fr 3fr;
     margin-top: 138px;
 }
-
 .container-section5-left h2{
     font-family: "Playfair Display";
     font-style: normal;
@@ -357,7 +357,6 @@ main {
     font-size: 22px;
     margin-top: 14px;
 }
-
 .container-section5-left span {
     font-size: 20px;
     font-weight: bold;
@@ -413,7 +412,6 @@ main {
     text-decoration: none;
     margin-top: 22px;
     margin-right: 72px;
-    
 }
 .container-card-2 {
     display: flex;
@@ -430,7 +428,6 @@ main {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-
 }
 .card-2:nth-child(2){
     background-image: url(./img/comidaChina.jfif);
@@ -441,7 +438,6 @@ main {
     background-image: url(./img/O7GSFTGENA74ZVVA2FBGLPKR64.jpg);
     background-size: cover;
     background-position: center;
-
 }
 .card-2:nth-child(4){
     background-image: url(./img/Surf-1.jpg);
@@ -473,7 +469,6 @@ main {
     font-size: 18px;
     font-weight: bolder;
     text-decoration: none;
-   
 }
 .text-box-section6{
     display: flex;
